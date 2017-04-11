@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-sqs
+Implementation-Version: 0.0.1
+Built-By: R694C
+Implementation-Vendor-Id: me.ruslanys
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-s
+ qs/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: me.ruslanys.Application
+

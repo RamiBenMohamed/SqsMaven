@@ -1,0 +1,10 @@
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\configs\AsyncConfig.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\components\TaskProcessor.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\services\TaskService.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\Application.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\models\Task.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\controllers\MainController.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\models\Type.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\configs\SchedulerConfig.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\models\Event.java
+D:\fish-springboot-sqs-master\src\main\java\me\ruslanys\configs\JmsConfig.java
